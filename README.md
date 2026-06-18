@@ -1,6 +1,13 @@
-<img src="banner.gif" width="300px" align="right">
 
-# Helcome from my GitHub
+
+## Bem Vindo ao meu GitHub/Helcome from my GitHub
+-  Estudante de Engenharia de Sofware
+-  Tecnico em Informatica 
+-  Aspirante a Desenvolvedor
+
+##
+
+<img src="banner.gif" width="300px" align="right">
 
 <div align = "left">
 <a href ="https://github.com/JoaoPedro-Campos">
