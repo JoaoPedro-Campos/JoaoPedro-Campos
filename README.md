@@ -1,9 +1,10 @@
 
 
 ## Bem Vindo ao meu GitHub/Helcome from my GitHub
--  Estudante de Engenharia de Sofware
--  Tecnico em Informatica 
--  Aspirante a Desenvolvedor
+-  🧑‍💻Estudante de Engenharia de Sofware
+-  🔎Tecnico em Informatica 
+-  💻Aspirante a Desenvolvedor
+-  Email de contato : jcampossoft@gmail.com
 
 ##
 
