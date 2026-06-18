@@ -27,3 +27,9 @@
   <img height = "30em"src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram Badge"/>
 </a>
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedro-Campos/JoaoPedro-Campos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedro-Campos/JoaoPedro-Campos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPedro-Campos/JoaoPedro-Campos/output/github-contribution-grid-snake.svg">
+</picture>
