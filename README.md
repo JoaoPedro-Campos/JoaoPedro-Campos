@@ -1,4 +1,4 @@
-<img src="banner.gif" width="325px" align="right">
+<img src="banner.gif" width="300px" align="right">
 
 # Helcome from my GitHub
 
