@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="banner.gif" width="325px" align="right">
 
-<!--
-**JoaoPedro-Campos/JoaoPedro-Campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Helcome from my GitHub
 
-Here are some ideas to get you started:
+<div align = "left">
+<a href ="https://github.com/JoaoPedro-Campos">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-Campos&show_icons=true&show_icons=true&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-Campos&show_icons=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+</div>
+
+##
+<a href="https://www.linkedin.com/in/joão-campos-407a66415/">
+<img height = "30em"src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin-horizontal.svg" alt="LinkedIn Badge"/>
+</a>
+
+
+<a href="https://www.instagram.com/joaodealmeida13/">
+  <img height = "30em"src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram Badge"/>
+</a>
+
+
+<a href="https://www.instagram.com/joaodealmeida13/">
+  <img height = "30em"src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram Badge"/>
+</a>
