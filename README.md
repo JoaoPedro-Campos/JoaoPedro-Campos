@@ -8,7 +8,7 @@
 
 ##
 
-<img src="banner.gif" width="300px" align="right">
+<img src="banner.gif" width="200px" align="right">
 
 <div align = "left">
 <a href ="https://github.com/JoaoPedro-Campos">
