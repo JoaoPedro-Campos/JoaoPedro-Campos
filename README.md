@@ -27,7 +27,3 @@
   <img height = "30em"src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram Badge"/>
 </a>
 
-
-<a href="https://www.instagram.com/joaodealmeida13/">
-  <img height = "30em"src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram Badge"/>
-</a>
